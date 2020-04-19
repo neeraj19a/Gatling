@@ -1,0 +1,13 @@
+RUN	CsvFeeder	csvfeeder	1587278689238	 	3.3.1
+USER	CSV Feeder	1	START	1587278691285	1587278691285
+REQUEST	1		Get Video games from CSV	1587278691374	1587278691422	KO	jsonPath($.name).find.is($({gameName}), but actually found Resident Evil 4
+REQUEST	1		Get Video games from CSV	1587278692446	1587278692451	KO	jsonPath($.name).find.is($({gameName}), but actually found Gran Turismo 3
+REQUEST	1		Get Video games from CSV	1587278693449	1587278693454	KO	jsonPath($.name).find.is($({gameName}), but actually found Tetris
+REQUEST	1		Get Video games from CSV	1587278694460	1587278694465	KO	jsonPath($.name).find.is($({gameName}), but actually found Super Mario 64
+REQUEST	1		Get Video games from CSV	1587278695461	1587278695466	KO	jsonPath($.name).find.is($({gameName}), but actually found Resident Evil 4
+REQUEST	1		Get Video games from CSV	1587278696470	1587278696475	KO	jsonPath($.name).find.is($({gameName}), but actually found Gran Turismo 3
+REQUEST	1		Get Video games from CSV	1587278697470	1587278697475	KO	jsonPath($.name).find.is($({gameName}), but actually found Tetris
+REQUEST	1		Get Video games from CSV	1587278698481	1587278698487	KO	jsonPath($.name).find.is($({gameName}), but actually found Super Mario 64
+REQUEST	1		Get Video games from CSV	1587278699477	1587278699482	KO	jsonPath($.name).find.is($({gameName}), but actually found Resident Evil 4
+REQUEST	1		Get Video games from CSV	1587278700499	1587278700503	KO	jsonPath($.name).find.is($({gameName}), but actually found Gran Turismo 3
+USER	CSV Feeder	1	END	1587278691285	1587278701498

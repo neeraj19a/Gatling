@@ -1,0 +1,4 @@
+RUN	simulations.MyFirstTest	myfirsttest	1587194899172	 	3.3.1
+USER	My First Test	1	START	1587194902208	1587194902208
+REQUEST	1		Get All Games	1587194902293	1587194904306	KO	i.n.c.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8888
+USER	My First Test	1	END	1587194902208	1587194904362

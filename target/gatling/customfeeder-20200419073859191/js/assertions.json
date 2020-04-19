@@ -1,0 +1,10 @@
+{
+  "simulation": "CustomFeeder",
+  "simulationId": "customfeeder",
+  "start": 1587281939191,
+  "description": "",
+  "scenarios": ["Post new games"],
+  "assertions": [
+
+  ]
+}

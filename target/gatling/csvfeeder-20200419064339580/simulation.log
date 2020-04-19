@@ -1,0 +1,13 @@
+RUN	CsvFeeder	csvfeeder	1587278619580	 	3.3.1
+USER	CSV Feeder	1	START	1587278621695	1587278621695
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278621727
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278622748
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278623763
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278624759
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278625760
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278626763
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278627749
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278628773
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278629760
+ERROR	Get Video games from CSV: Failed to build request: No attribute named 'gamesId' is defined 	1587278630773
+USER	CSV Feeder	1	END	1587278621695	1587278631781

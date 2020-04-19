@@ -1,0 +1,10 @@
+{
+  "simulation": "CheckResponseBodyAndExtract",
+  "simulationId": "checkresponsebodyandextract",
+  "start": 1587275711387,
+  "description": "",
+  "scenarios": ["Check JSONPath"],
+  "assertions": [
+
+  ]
+}
